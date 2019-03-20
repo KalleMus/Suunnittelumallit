@@ -1,8 +1,12 @@
 package factorymethod;
 
 public class Vartija extends AterioivaOtus {
-	@Override
+
 	public Juoma createJuoma() {
-		return new Vesi();
+		return new Maito();
+	}
+
+	public Ruoka createRuoka() {
+		return new Kebab();
 	}
 }

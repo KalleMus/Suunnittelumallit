@@ -1,8 +1,8 @@
 package factorymethod;
 
-public class Vesi implements Juoma {
+public class Maito implements Juoma {
 
-    private String name = "vesi";
+    private String name = "maito";
 
     @Override
     public String toString() {
