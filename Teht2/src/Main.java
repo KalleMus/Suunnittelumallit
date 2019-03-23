@@ -7,10 +7,20 @@ import java.util.Scanner;
 public class Main {
 
 	/**
-	 * Kirjoita ohjelma, jossa Jasper pukee päällensä farmarit, t-paidan,
+	 * 2. Abstract Factory
+	 *
+	 * Kirjoita ohjelma, jossa Jasper Java-koodaaja pukee päällensä farmarit, t-paidan,
 	 * lippiksen ja kengät. Tämän jälkeen Jasper luettelee ylpeänä, mitä hänellä on
 	 * päällään (vaatekappaleet osaavat toString-metodeissaan kertoa kaiken oleellisen
-	 * itsesätään.
+	 * itsesätään).
+	 *
+	 * Valmistuttuaan insinööriksi Jasper siirtyy käyttämään yksinomaan Boss-tuotteita
+	 * ja osaa edelleen kertoa, mitä hänellä on päällään.
+	 *
+	 * Koodaa ohjelma siten, että Jasperiin ei tarvitse tehdä juuri muutoksia Adidas->Boss
+	 * siirtymän takia, vaan ainoa muuton on tuoteperheen (tehtaan) vaihto.
+	 *
+	 * Bonus: Hyödynnä Java Reflection APIa tehtaan luonnissa.
 	 */
 
 	private static Scanner scanner = new Scanner(System.in);

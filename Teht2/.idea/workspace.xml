@@ -2,27 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5cd6c0f4-8b8a-4fe2-8725-c068ce2ced3e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaKoodaaja.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clothes/Cap_Adidas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clothes/Cap_Boss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clothes/Cap_IF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clothes/Jeans_Adidas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clothes/Jeans_Boss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clothes/Jeans_IF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clothes/Shoes_Adidas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clothes/Shoes_Boss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clothes/Shoes_IF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clothes/Tshirt_Adidas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clothes/Tshirt_Boss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clothes/Tshirt_IF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factories/AdidasFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factories/BossFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factories/ClothingFactory_IF.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Teht1/FactoryMethod/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Teht1/FactoryMethod/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -81,8 +63,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="18" column="61" lean-forward="true" selection-start-line="18" selection-start-column="61" selection-end-line="19" selection-end-column="45" />
+            <state relative-caret-position="238">
+              <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#679#680#0" expanded="true" />
@@ -207,7 +189,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553372287454" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553373909406" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -252,12 +234,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553344972981</updated>
-      <workItem from="1553344976213" duration="10852000" />
+      <workItem from="1553344976213" duration="11249000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10852000" />
+    <option name="totallyTimeSpent" value="11249000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -447,8 +429,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="18" column="61" lean-forward="true" selection-start-line="18" selection-start-column="61" selection-end-line="19" selection-end-column="45" />
+        <state relative-caret-position="238">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#679#680#0" expanded="true" />

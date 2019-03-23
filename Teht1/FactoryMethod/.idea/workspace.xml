@@ -2,27 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8506ab21-0e2b-4b38-b244-c201d7764961" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Teht2/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Teht2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Teht2/src/JavaKoodaaja.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Teht2/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Teht2/src/clothes/Cap_Adidas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Teht2/src/clothes/Cap_Boss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Teht2/src/clothes/Cap_IF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Teht2/src/clothes/Jeans_Adidas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Teht2/src/clothes/Jeans_Boss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Teht2/src/clothes/Jeans_IF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Teht2/src/clothes/Shoes_Adidas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Teht2/src/clothes/Shoes_Boss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Teht2/src/clothes/Shoes_IF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Teht2/src/clothes/Tshirt_Adidas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Teht2/src/clothes/Tshirt_Boss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Teht2/src/clothes/Tshirt_IF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Teht2/src/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Teht2/src/factories/AdidasFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Teht2/src/factories/BossFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Teht2/src/factories/ClothingFactory_IF.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Teht2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Teht2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Teht2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Teht2/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
