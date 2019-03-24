@@ -2,8 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8506ab21-0e2b-4b38-b244-c201d7764961" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Teht3/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Teht3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Teht3/src/Factories/Dell_Factory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Teht3/src/Factories/Lenovo_Factory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Teht3/src/Factories/PcFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Teht3/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Teht3/src/components/Component.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Teht3/src/components/lenovo_components/Lenovo_Case.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Teht3/src/components/lenovo_components/Lenovo_GraphicsCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Teht3/src/components/lenovo_components/Lenovo_Motherboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Teht3/src/components/lenovo_components/Lenovo_PowerSupply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Teht3/src/components/lenovo_components/Lenovo_RAM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Teht3/src/components/lenovo_components/Lenovo_SSD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Teht3/src/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Teht2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Teht2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Teht2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Teht2/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -143,10 +157,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-45" />
-    <option name="width" value="1750" />
-    <option name="height" value="980" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -221,17 +235,17 @@
       <workItem from="1553083540180" duration="2516000" />
       <workItem from="1553094624986" duration="5372000" />
       <workItem from="1553344921798" duration="651000" />
+      <workItem from="1553411852216" duration="865000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8579000" />
+    <option name="totallyTimeSpent" value="9444000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25973153" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23758389" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
