@@ -1,0 +1,10 @@
+@font-face {
+    font-family: clockFont;
+    src: url(digital-7.ttf);
+}
+
+#timeField {
+    -fx-font-size: 120;
+    -fx-font-family: digital-7;
+    -fx-text-fill: green;
+}
