@@ -3,8 +3,20 @@
     src: url(digital-7.ttf);
 }
 
-#timeField {
+#timeLabel {
     -fx-font-size: 120;
     -fx-font-family: digital-7;
     -fx-text-fill: green;
+}
+
+#clockBox {
+    -fx-max-width: 600;
+    -fx-max-height: 200;
+    -fx-background-color: black;
+    -fx-background-radius: 10;
+    -fx-border-color: gray;
+    -fx-border-width: 5;
+    -fx-padding: 5;
+    -fx-border-radius: 10;
+    -fx-alignment: center;
 }

@@ -1,7 +1,6 @@
 package view;
 
 import javafx.scene.Scene;
-import javafx.scene.layout.HBox;
 import javafx.scene.layout.StackPane;
 import javafx.stage.Stage;
 
@@ -26,7 +25,7 @@ public class MainView {
 
 	/**
 	 * Called by Main.
-	 * @return the currentStage to be rendered
+	 * @return the currentStage to be rendered.
 	 */
 	public Stage getCurrentStage() {
 		return currentStage;
@@ -38,9 +37,7 @@ public class MainView {
 	 * @return the created scene.
 	 */
 	private Scene createMainScene() {
-		HBox clockBox = new HBox(clockObserver.getTimeLabel());
-		clockBox.setId("clockBox");
-		StackPane stackPane = new StackPane(clockBox);
+		StackPane stackPane = new StackPane(clockObserver.getDigitalClockWidget());
 		stackPane.setId("stackPane");
 		Scene scene = new Scene(stackPane,800, 600);
 		scene.getStylesheets().addAll("ClockObserver.css", "MainView.css");

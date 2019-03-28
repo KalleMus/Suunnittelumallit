@@ -1,15 +1,3 @@
 #stackPane {
     -fx-background-color: #f3f3f3;
 }
-
-#clockBox {
-    -fx-max-width: 600;
-    -fx-max-height: 200;
-    -fx-background-color: black;
-    -fx-background-radius: 10;
-    -fx-border-color: gray;
-    -fx-border-width: 5;
-    -fx-padding: 5;
-    -fx-border-radius: 10;
-    -fx-alignment: center;
-}
