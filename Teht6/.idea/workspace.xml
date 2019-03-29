@@ -2,15 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f098ca04-8fd5-4151-9c19-c98c407f9876" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/ConcreteData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decorator/AdvancedDecoder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decorator/AdvancedEncoder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decorator/BasicDecoder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decorator/BasicEncoder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decorator/Decoder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decorator/Encoder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Teht5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Teht5/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Teht7/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Teht7/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Teht7/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Teht7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Teht7/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Teht7/Teht7.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,20 +30,20 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/decorator/AdvancedEncoder.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="51">
-                  <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="9" selection-end-column="3" />
+                <state relative-caret-position="63">
+                  <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/decorator/AdvancedDecoder.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="324">
-                  <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+                  <caret line="36" selection-start-line="36" selection-end-line="36" />
                   <folding>
                     <element signature="e#140#141#0" expanded="true" />
                     <element signature="e#158#159#0" expanded="true" />
@@ -60,7 +58,7 @@
             <entry file="file://$PROJECT_DIR$/src/decorator/BasicDecoder.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="69">
-                  <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="19" selection-end-column="7" />
+                  <caret line="14" selection-start-line="14" selection-end-line="19" selection-end-column="7" />
                   <folding>
                     <element signature="e#123#124#0" expanded="true" />
                     <element signature="e#134#135#0" expanded="true" />
@@ -90,7 +88,7 @@
             <entry file="file://$PROJECT_DIR$/src/Main.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="39">
-                  <caret line="148" lean-forward="true" selection-start-line="148" selection-end-line="148" />
+                  <caret line="148" selection-start-line="148" selection-end-line="148" />
                   <folding>
                     <element signature="imports" expanded="true" />
                     <element signature="e#493#494#0" expanded="true" />
@@ -124,7 +122,7 @@
             <entry file="file://$PROJECT_DIR$/src/decorator/BasicEncoder.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="171">
-                  <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="37" selection-end-column="5" />
+                  <caret line="30" selection-start-line="30" selection-end-line="37" selection-end-column="5" />
                   <folding>
                     <element signature="imports" expanded="true" />
                     <element signature="e#129#130#0" expanded="true" />
@@ -140,7 +138,7 @@
             <entry file="file://$PROJECT_DIR$/src/decorator/Decoder.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="289">
-                  <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+                  <caret line="17" selection-start-line="17" selection-end-line="17" />
                   <folding>
                     <element signature="e#152#153#0" expanded="true" />
                     <element signature="e#175#176#0" expanded="true" />
@@ -159,7 +157,7 @@
             <entry file="file://$PROJECT_DIR$/src/decorator/BasicDecoder.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="204">
-                  <caret line="14" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="31" selection-end-column="5" />
+                  <caret line="14" selection-start-line="19" selection-start-column="7" selection-end-line="31" selection-end-column="5" />
                   <folding>
                     <element signature="e#179#180#0" expanded="true" />
                     <element signature="e#220#221#0" expanded="true" />
@@ -262,7 +260,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553875604591" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553880688247" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -308,16 +306,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553865376547</updated>
-      <workItem from="1553865379737" duration="7940000" />
+      <workItem from="1553865379737" duration="8281000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7940000" />
+    <option name="totallyTimeSpent" value="8281000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
@@ -333,7 +330,7 @@
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" />
-      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.42492917" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.42492917" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="10" />
@@ -384,7 +381,7 @@
     <entry file="file://$PROJECT_DIR$/src/decorator/Decoder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="e#152#153#0" expanded="true" />
             <element signature="e#175#176#0" expanded="true" />
@@ -407,17 +404,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/decorator/AdvancedEncoder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="9" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="39">
-          <caret line="148" lean-forward="true" selection-start-line="148" selection-end-line="148" />
+          <caret line="148" selection-start-line="148" selection-end-line="148" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#493#494#0" expanded="true" />
@@ -442,7 +432,7 @@
     <entry file="file://$PROJECT_DIR$/src/decorator/BasicEncoder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="37" selection-end-column="5" />
+          <caret line="30" selection-start-line="30" selection-end-line="37" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#129#130#0" expanded="true" />
@@ -456,7 +446,7 @@
     <entry file="file://$PROJECT_DIR$/src/decorator/BasicDecoder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="19" selection-end-column="7" />
+          <caret line="14" selection-start-line="14" selection-end-line="19" selection-end-column="7" />
           <folding>
             <element signature="e#123#124#0" expanded="true" />
             <element signature="e#134#135#0" expanded="true" />
@@ -469,13 +459,20 @@
     <entry file="file://$PROJECT_DIR$/src/decorator/AdvancedDecoder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
           <folding>
             <element signature="e#140#141#0" expanded="true" />
             <element signature="e#158#159#0" expanded="true" />
             <element signature="e#197#198#0" expanded="true" />
             <element signature="e#238#239#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/decorator/AdvancedEncoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
         </state>
       </provider>
     </entry>
