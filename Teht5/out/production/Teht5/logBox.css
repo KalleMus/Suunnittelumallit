@@ -1,0 +1,39 @@
+#loggerTitleLabel {
+    -fx-font-size: 20;
+    -fx-background-color: #333;
+    -fx-background-radius: 10;
+    -fx-text-fill: white;
+    -fx-padding: 5;
+}
+
+#logVBox {
+    -fx-min-width: 200;
+    -fx-spacing: 10;
+    -fx-padding: 5;
+}
+
+#logHBox {
+    -fx-border-color: white;
+    -fx-border-radius: 10;
+    -fx-border-width: 5;
+    -fx-background-color: gray;
+    -fx-background-radius: 10;
+    -fx-max-width: 200;
+    -fx-max-height: 400;
+    -fx-min-height: 400;
+}
+
+#logLabel {
+    -fx-text-fill: blue;
+    -fx-font-size: 15;
+}
+
+#infoLabel {
+    -fx-text-fill: green;
+    -fx-font-size: 15;
+}
+
+#warningLabel {
+    -fx-text-fill: yellow;
+    -fx-font-size: 15;
+}

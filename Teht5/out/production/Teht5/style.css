@@ -1,0 +1,103 @@
+#mainBorderPane {
+    -fx-background-color: #333;
+}
+
+#titleLabel {
+    -fx-font-size: 50;
+    -fx-text-fill: white;
+}
+
+#leftVBox {
+    -fx-padding: 10;
+    -fx-spacing: 10;
+    -fx-border-color: black;
+    -fx-border-width: 5;
+    -fx-min-width: 250;
+}
+
+#centerVBox {
+    -fx-padding: 20;
+    -fx-spacing: 10;
+}
+
+#createLoggerButton {
+    -fx-font-size: 30;
+    -fx-text-fill: #008000;
+    -fx-background-color: #444;
+    -fx-background-radius: 5;
+    -fx-border-color: #222;
+    -fx-border-radius: 5;
+}
+
+#createLoggerButton:hover {
+    -fx-text-fill: #00a000;
+    -fx-border-color: #333;
+}
+
+#createLoggerButton:pressed {
+    -fx-background-color: #222;
+    -fx-translate-y: 2;
+}
+
+#topHBox {
+    -fx-alignment: center;
+    -fx-border-color: black;
+    -fx-border-width: 5;
+}
+
+#logButton {
+    -fx-font-size: 40;
+    -fx-text-fill: #0000DD;
+    -fx-background-color: #444;
+    -fx-background-radius: 5;
+    -fx-border-color: #222;
+    -fx-border-radius: 5;
+}
+
+#logButton:hover {
+    -fx-text-fill: #0000FF;
+    -fx-border-color: #333;
+}
+
+#logButton:pressed {
+    -fx-background-color: #222;
+    -fx-translate-y: 2;
+}
+
+#infoButton {
+    -fx-font-size: 40;
+    -fx-text-fill: #008000;
+    -fx-background-color: #444;
+    -fx-background-radius: 5;
+    -fx-border-color: #222;
+    -fx-border-radius: 5;
+}
+
+#infoButton:hover {
+    -fx-text-fill: #00A000;
+    -fx-border-color: #333;
+}
+
+#infoButton:pressed {
+    -fx-background-color: #222;
+    -fx-translate-y: 2;
+}
+
+#warningButton {
+    -fx-font-size: 40;
+    -fx-text-fill: #DDDD00;
+    -fx-background-color: #444;
+    -fx-background-radius: 5;
+    -fx-border-color: #222;
+    -fx-border-radius: 5;
+}
+
+#warningButton:hover {
+    -fx-text-fill: #FFFF00;
+    -fx-border-color: #333;
+}
+
+#warningButton:pressed {
+    -fx-background-color: #222;
+    -fx-translate-y: 2;
+}
