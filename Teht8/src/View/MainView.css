@@ -1,0 +1,19 @@
+#rootPane {
+    -fx-background-color: gray;
+}
+
+#mainPane {
+    -fx-background-color: blue;
+}
+
+#vBox {
+    -fx-alignment: center;
+}
+
+#playerLabel {
+    -fx-font-size: 50;
+}
+
+#winnerLabel {
+    -fx-font-size: 50;
+}
