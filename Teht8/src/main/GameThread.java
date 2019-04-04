@@ -4,14 +4,16 @@ import View.MainView;
 import controller.MwController;
 import controller.TicTacToe;
 
+
+/**
+ * Thread that starts the game loop to run on a different thread.
+ */
 public class GameThread extends Thread{
 
-	private MainView mw;
 	private MwController con;
 	private int playerCount;
 
-	public GameThread(MainView mw, MwController con, int playerCount) {
-		this.mw = mw;
+	public GameThread(MwController con, int playerCount) {
 		this.con = con;
 		this.playerCount = playerCount;
 	}

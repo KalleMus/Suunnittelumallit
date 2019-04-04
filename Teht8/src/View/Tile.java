@@ -1,10 +1,12 @@
 package View;
 
-
 import javafx.scene.paint.Color;
-import javafx.scene.paint.Paint;
 import javafx.scene.shape.Rectangle;
 
+
+/**
+ * Custom rectangle component
+ */
 public class Tile extends Rectangle {
 
 	private boolean p1checked = false;
@@ -59,5 +61,10 @@ public class Tile extends Rectangle {
 		if (p1checked) return true;
 		else if (p2checked) return true;
 		else return false;
+	}
+
+	public void setCheckedFalse() {
+		p1checked = false;
+		p2checked = false;
 	}
 }

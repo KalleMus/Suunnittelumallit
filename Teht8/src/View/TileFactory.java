@@ -1,6 +1,8 @@
 package View;
 
-
+/**
+ * Factory for creating tiles.
+ */
 public class TileFactory {
 
 	private final int tileSize = 128;

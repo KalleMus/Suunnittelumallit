@@ -1,5 +1,8 @@
 package controller;
 
+/**
+ * Game loop template
+ */
 abstract class Game {
 
 	protected int playersCount;
