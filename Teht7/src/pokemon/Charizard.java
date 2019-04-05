@@ -6,25 +6,31 @@ import view.MainView;
 public class Charizard implements PokemonState_IF {
 
 	private String name = "Charizard";
-	private MainView mainView;
+	private static MainView mainView;
 	private Image pokeImage = new Image("/pokemon/images/charizard.jpg");
-	private Pokemon pokemon;
+	private static Charizard charizard;
 
-	public Charizard(Pokemon pokemon, MainView mainView) {
-		this.pokemon = pokemon;
-		this.mainView = mainView;
+	public static PokemonState_IF getInstance(MainView mw) {
+		mainView = mw;
+		if (charizard == null) {
+			charizard = new Charizard();
+		}
+		return charizard;
+	}
+
+	private Charizard() {
 	}
 
 	@Override
-	public void levelUp() {
+	public void levelUp(Pokemon pokemon) {
 		updateEventText("This pokemon can't level up anymore.");
 		System.out.println("This pokemon can't level up anymore.");
 	}
 
 	@Override
-	public void reset() {
+	public void reset(Pokemon pokemon) {
 		updateEventText("");
-		pokemon.setCurrentForm(new Charmander(pokemon, mainView));
+		pokemon.setCurrentForm(Charmander.getInstance(mainView));
 	}
 
 	@Override

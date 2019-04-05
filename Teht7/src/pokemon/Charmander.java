@@ -3,30 +3,35 @@ package pokemon;
 import javafx.scene.image.Image;
 import view.MainView;
 
-
 public class Charmander implements PokemonState_IF {
 
 	private String name = "Charmander";
-	private MainView mainView;
+	private static MainView mainView;
 	private Image pokeImage = new Image("/pokemon/images/charmander.jpg");
-	private Pokemon pokemon;
+	private static Charmander charmander;
 
-	public Charmander(Pokemon pokemon, MainView mainView) {
-		this.pokemon = pokemon;
-		this.mainView = mainView;
+	public static PokemonState_IF getInstance(MainView mw) {
+		mainView = mw;
+		if (charmander == null) {
+			charmander = new Charmander();
+		}
+		return charmander;
+	}
+
+	private Charmander() {
 	}
 
 	@Override
-	public void levelUp() {
+	public void levelUp(Pokemon pokemon) {
 		updateEventText(name + " levels up!");
 		System.out.println(name + " levels up!");
-		pokemon.setCurrentForm(new Charmeleon(pokemon, mainView));
+		pokemon.setCurrentForm(Charmeleon.getInstance(mainView));
 	}
 
 	@Override
-	public void reset() {
+	public void reset(Pokemon pokemon) {
 		updateEventText("");
-		pokemon.setCurrentForm(new Charmander(pokemon, mainView));
+		pokemon.setCurrentForm(charmander);
 	}
 
 	@Override

@@ -6,26 +6,32 @@ import view.MainView;
 public class Charmeleon implements PokemonState_IF {
 
 	private String name = "Charmeleon";
-	private MainView mainView;
+	private static MainView mainView;
 	private Image pokeImage = new Image("/pokemon/images/charmeleon.jpg");
-	private Pokemon pokemon;
+	private static Charmeleon charmeleon;
 
-	public Charmeleon(Pokemon pokemon, MainView mainView) {
-		this.pokemon = pokemon;
-		this.mainView = mainView;
+	public static PokemonState_IF getInstance(MainView mw) {
+		mainView = mw;
+		if (charmeleon == null) {
+			charmeleon = new Charmeleon();
+		}
+		return charmeleon;
+	}
+
+	private Charmeleon() {
 	}
 
 	@Override
-	public void levelUp() {
+	public void levelUp(Pokemon pokemon) {
 		updateEventText(name + " levels up!");
 		System.out.println(name + " levels up!");
-		pokemon.setCurrentForm(new Charizard(pokemon, mainView));
+		pokemon.setCurrentForm(Charizard.getInstance(mainView));
 	}
 
 	@Override
-	public void reset() {
+	public void reset(Pokemon pokemon) {
 		updateEventText("");
-		pokemon.setCurrentForm(new Charmander(pokemon, mainView));
+		pokemon.setCurrentForm(Charmander.getInstance(mainView));
 	}
 
 	@Override

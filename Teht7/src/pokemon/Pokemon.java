@@ -4,18 +4,12 @@ import view.MainView;
 
 public class Pokemon {
 
-	private PokemonState_IF charmander;
-	private PokemonState_IF charmeleon;
-	private PokemonState_IF charizard;
-
 	private PokemonState_IF currentForm;
+	private MainView mainView;
 
 	public Pokemon(MainView mainView) {
-		charmander = new Charmander(this, mainView);
-		charmeleon = new Charmeleon(this, mainView);
-		charizard = new Charizard(this, mainView);
-
-		currentForm = charmander;
+		this.mainView = mainView;
+		currentForm = Charmander.getInstance(mainView);
 	}
 
 	public void setCurrentForm(PokemonState_IF newForm) {
@@ -35,16 +29,20 @@ public class Pokemon {
 	}
 
 	public void levelUp() {
-		currentForm.levelUp();
+		currentForm.levelUp(this);
 		currentForm.updatePokeImage();
 	}
 
 	public void reset() {
-		currentForm.reset();
+		currentForm.reset(this);
 		currentForm.updatePokeImage();
 	}
 
 	public PokemonState_IF getCurrentForm() {
 		return currentForm;
+	}
+
+	public MainView getMainView() {
+		return mainView;
 	}
 }

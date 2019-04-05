@@ -1,29 +1,27 @@
 package main;
 
-import java.util.Arrays;
+public class MyStack {
 
-public class MyList {
-
-	private int[] array;
+	private int[] stack;
 	private int pos = 0;
 
-	public MyList(int size) {
-		array = new int[size];
+	public MyStack(int size) {
+		stack = new int[size];
 	}
 
 	public void insert(int value) {
-		array[pos] = value;
+		stack[pos] = value;
 		pos++;
 	}
 
 	public int pop() {
 		pos--;
-	 return array[pos];
+	 return stack[pos];
 	}
 
 	public void print() {
 		for (int i = pos - 1; i >= 0; i--) {
-			System.out.println(array[i]);
+			System.out.println(stack[i]);
 		}
 	}
 }
