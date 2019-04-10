@@ -21,7 +21,7 @@ public class TicTacToe extends Game {
 	public void makePlay(int player) {
 		gt.getCon().setCurrentPlayer(player);
 		while (!gt.getCon().isClicked()) {
-			System.out.print("");
+			Thread.yield();
 		}
 		gt.getCon().setClicked(false);
 	}
@@ -30,15 +30,9 @@ public class TicTacToe extends Game {
 	public boolean endOfGame() {
 		int[][] winList = gt.getCon().getWinList();
 		int player = gt.getCon().getCurrentPlayer();
-		if (horizontalCheck(winList, player)) {
-			gt.getCon().setGameOver(true);
-			return true;
-		}
-		else if (verticalCheck(winList,player)) {
-			gt.getCon().setGameOver(true);
-			return true;
-		}
-		else if (diagonalCheck(winList, player)) {
+		if (horizontalCheck(winList, player)
+			|| verticalCheck(winList,player)
+			|| diagonalCheck(winList, player)) {
 			gt.getCon().setGameOver(true);
 			return true;
 		}

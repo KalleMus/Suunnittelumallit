@@ -1,0 +1,24 @@
+#borderPane {
+    -fx-border-color: black;
+}
+
+#mainHBox {
+    -fx-alignment: center;
+    -fx-spacing: 20;
+}
+
+#imageVBox {
+    -fx-alignment: center;
+}
+
+#folderContentVBox {
+    -fx-alignment: center;
+    -fx-border-color: black;
+    -fx-spacing: 5;
+    -fx-padding: 10;
+}
+
+#folderLabel {
+    -fx-font-size: 20;
+    -fx-font-weight: bold;
+}

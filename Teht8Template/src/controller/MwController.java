@@ -79,7 +79,6 @@ public class MwController {
 				mw.getCurrentPlayerLabel().setText("Player" + currentPlayer + " WINS!");
 				mw.getCurrentPlayerLabel().setId("winnerLabel");
 			}
-
 		});
 	}
 
