@@ -1,0 +1,32 @@
+#eventLabel {
+    -fx-font-size: 30;
+}
+
+#currentLevelLabel {
+    -fx-font-size: 30;
+    -fx-padding: 10;
+}
+
+#buttonsHBox {
+    -fx-spacing: 5;
+}
+
+#nameLabel {
+    -fx-font-size: 30;
+}
+
+#centerVBox {
+    -fx-alignment: center;
+}
+
+Button {
+    -fx-padding: 10;
+    -fx-font-size: 20;
+}
+
+HBox {
+    -fx-padding: 10;
+}
+BorderPane {
+    -fx-background-color: white;
+}
