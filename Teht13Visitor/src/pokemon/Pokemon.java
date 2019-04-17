@@ -20,14 +20,17 @@ public class Pokemon {
 
 	public void attack() {
 		currentForm.attack();
+		increaseLevel();
 	}
 
 	public void defend() {
 		currentForm.defend();
+		increaseLevel();
 	}
 
 	public void move() {
 		currentForm.move();
+		increaseLevel();
 	}
 
 	public void increaseLevel() {

@@ -59,16 +59,17 @@ public class MainView {
 		Button attackButton = new Button("Attack");
 		Button defendButton = new Button("Defend");
 		Button moveButton = new Button("Move");
-		Button levelUpButton = new Button("Level Up");
+		//Button levelUpButton = new Button("Level Up");
 		Button resetButton = new Button("Reset");
 
 		attackButton.setOnMouseClicked(e -> pokemon.attack());
 		defendButton.setOnMouseClicked(e -> pokemon.defend());
 		moveButton.setOnMouseClicked(e -> pokemon.move());
-		levelUpButton.setOnMouseClicked(e -> pokemon.increaseLevel());
+		//levelUpButton.setOnMouseClicked(e -> pokemon.increaseLevel());
 		resetButton.setOnMouseClicked(e -> pokemon.reset());
 
-		HBox buttonsHBox = new HBox(attackButton, defendButton, moveButton, levelUpButton, resetButton);
+		//HBox buttonsHBox = new HBox(attackButton, defendButton, moveButton, levelUpButton, resetButton);
+		HBox buttonsHBox = new HBox(attackButton, defendButton, moveButton, resetButton);
 		buttonsHBox.setAlignment(Pos.CENTER);
 		buttonsHBox.setId("buttonsHBox");
 		return buttonsHBox;

@@ -20,9 +20,6 @@ public class EvolveCheckerVisitor implements Visitor_IF {
 			currentForm.evolve(pokemon);
 			pokemon.getCurrentForm().setLevel(currentForm.getLevel());
 		}
-		else {
-			pokemon.getCurrentForm().updateEventText(currentForm.getName() + " levels up!");
-		}
 	}
 
 }
