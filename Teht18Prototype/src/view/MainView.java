@@ -15,9 +15,10 @@ public class MainView {
 	private Scene scene;
 	private BorderPane borderPane;
 	private HBox hBox, bottomHBox;
-	private Button resetButton, shallowCloneButton, deepCloneButton;
+	private Button resetButton, shallowCloneButton, deepCloneButton, timeButton;
 	private VBox originalClockWidgetBox, shallowCopyClockWidgetBox, deepCopyClockWidgetBox;
 	private ClockWidget originalClockWidget, shallowCopyClockWidget, deepCopyClockWidget;
+	private TimeThread timeThread;
 
 	public MainView() {
 		createBorderPane();
@@ -49,6 +50,7 @@ public class MainView {
 		resetButton.setOnMouseClicked(e -> {
 			createHBox();
 			createOriginalClockWidgetBox();
+			stopTime();
 			shallowCopyClockWidgetBox = null;
 			deepCopyClockWidgetBox = null;
 		});
@@ -66,8 +68,28 @@ public class MainView {
 				hBox.getChildren().add(deepCopyClockWidgetBox);
 			}
 		});
-		bottomHBox = new HBox(resetButton, shallowCloneButton, deepCloneButton);
+		timeButton = new Button("Start time");
+		timeButton.setOnMouseClicked(e -> {
+			if (timeThread == null || !timeThread.isTimeRunning()) {
+				startTime();
+			}
+			else {
+				stopTime();
+			}
+		});
+		bottomHBox = new HBox(resetButton, timeButton, shallowCloneButton, deepCloneButton);
 		borderPane.setBottom(bottomHBox);
+	}
+
+	private void startTime() {
+		timeThread = new TimeThread();
+		timeThread.start();
+		timeButton.setText("Stop time");
+	}
+
+	private void stopTime() {
+		timeThread.stopTime();
+		timeButton.setText("Start time");
 	}
 
 	private void createOriginalClockWidgetBox() {
@@ -108,6 +130,39 @@ public class MainView {
 				clockBox.getChildren().clear();
 				clockBox.getChildren().addAll(clockWidget.getCanvas(), clockWidget.getButtonsHbox(), clockWidget.getTypeLabel());
 			}
+		}
+	}
+
+	private class TimeThread extends Thread {
+		private boolean timeRunning = false;
+		@Override
+		public void run() {
+			timeRunning = true;
+			while (timeRunning) {
+				try {
+					Thread.sleep(1000);
+					incTime(originalClockWidget);
+					incTime(shallowCopyClockWidget);
+					incTime(deepCopyClockWidget);
+				} catch (Exception e) {
+					e.printStackTrace();
+				}
+			}
+		}
+
+		private void incTime(ClockWidget clockWidget) {
+			if (clockWidget != null) {
+				clockWidget.getKello().incrementSeconds();
+				updateGui();
+			}
+		}
+
+		public void stopTime() {
+			timeRunning = false;
+		}
+
+		public boolean isTimeRunning() {
+			return timeRunning;
 		}
 	}
 

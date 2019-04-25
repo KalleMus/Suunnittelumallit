@@ -71,6 +71,7 @@ public class Kello implements Cloneable {
 	public void incrementMinutes() {
 		if (minuttiViisari.getPointsTo() >= 60) {
 			minuttiViisari.setPointsTo(1);
+			incrementHours();
 		}
 		else {
 			minuttiViisari.setPointsTo(minuttiViisari.getPointsTo() + 1);
@@ -81,6 +82,7 @@ public class Kello implements Cloneable {
 	public void incrementSeconds() {
 		if (sekuntiViisari.getPointsTo() >= 60) {
 			sekuntiViisari.setPointsTo(1);
+			incrementMinutes();
 		}
 		else {
 			sekuntiViisari.setPointsTo(sekuntiViisari.getPointsTo() + 1);
