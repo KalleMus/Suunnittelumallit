@@ -47,9 +47,8 @@ public class MainView {
 	private void createBottomHBox() {
 		resetButton = new Button("Reset");
 		resetButton.setOnMouseClicked(e -> {
-			hBox.getChildren().clear();
+			createHBox();
 			createOriginalClockWidgetBox();
-			hBox.getChildren().add(originalClockWidgetBox);
 			shallowCopyClockWidgetBox = null;
 			deepCopyClockWidgetBox = null;
 		});
@@ -75,7 +74,7 @@ public class MainView {
 		originalClockWidget = new ClockWidget(this);
 		originalClockWidgetBox = new VBox();
 		originalClockWidgetBox.setAlignment(Pos.CENTER);
-		hBox.getChildren().addAll(originalClockWidgetBox);
+		hBox.getChildren().add(originalClockWidgetBox);
 		updateGui();
 	}
 

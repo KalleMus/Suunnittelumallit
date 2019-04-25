@@ -2,29 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1c3f13f-6912-40ff-83ed-84fdea63b0f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Teht16Bridge/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Teht16Bridge/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Teht17Lightweight/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Teht17Lightweight/src/BorderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Teht17Lightweight/src/StringTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/JavaFX11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Kello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Viisari.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/view/ClockWidget.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/view/MainView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Teht10ChainOfResponsibility/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Teht10ChainOfResponsibility/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Teht11Memento/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Teht11Memento/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Teht12Proxy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Teht12Proxy/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Teht12Proxy/src/model/RealImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Teht12Proxy/src/model/RealImage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Teht13Visitor/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Teht13Visitor/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Teht13Visitor/out/production/Teht13Visitor/pokemon/Pokemon.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Teht13Visitor/out/production/Teht13Visitor/pokemon/Pokemon.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Teht13Visitor/src/pokemon/Pokemon.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Teht13Visitor/src/pokemon/Pokemon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Teht14Builder/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Teht14Builder/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Teht14Builder/src/builder/McDonalds.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Teht14Builder/src/builder/McDonalds.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Teht15Adapter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Teht15Adapter/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/MainView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/MainView.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,12 +16,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/view/MainView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="556">
-              <caret line="125" lean-forward="true" selection-start-line="125" selection-end-line="125" />
+            <state relative-caret-position="323">
+              <caret line="50" column="43" selection-start-line="50" selection-start-column="43" selection-end-line="50" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#271#272#0" expanded="true" />
-                <element signature="e#293#294#0" expanded="true" />
+                <element signature="e#3334#3335#0" expanded="true" />
                 <element signature="e#3380#3381#0" expanded="true" />
               </folding>
             </state>
@@ -53,8 +30,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="102">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -72,9 +49,7 @@
                 <element signature="method#createButtonsHbox#0;class#ClockWidget#0" />
                 <element signature="method#draw#0;class#ClockWidget#0" />
                 <element signature="method#getHourHandXPos#0;class#ClockWidget#0" />
-                <element signature="method#getHourHandXPos#1;class#ClockWidget#0" />
                 <element signature="method#getMinutesHandXPos#0;class#ClockWidget#0" />
-                <element signature="method#getMinutesHandXPos#1;class#ClockWidget#0" />
               </folding>
             </state>
           </provider>
@@ -83,8 +58,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/model/Kello.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+            <state relative-caret-position="578">
+              <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -93,7 +68,7 @@
         <entry file="file://$PROJECT_DIR$/src/model/Viisari.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+              <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -112,6 +87,7 @@
       <find>bottom</find>
       <find>hbutt</find>
       <find>updateGui</find>
+      <find>originalClockWidgetBox</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -180,7 +156,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556139323638" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556201596554" />
     <property name="last_opened_file_path" value="C:/Program Files/Java/javafx-sdk-11.0.2/lib" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -228,17 +204,19 @@
       <updated>1556108828331</updated>
       <workItem from="1556108832160" duration="1512000" />
       <workItem from="1556113594483" duration="21122000" />
+      <workItem from="1556201134538" duration="450000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22634000" />
+    <option name="totallyTimeSpent" value="23084000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49858356" visible="true" weight="0.25302014" />
-      <window_info id="Structure" order="1" sideWeight="0.50141644" side_tool="true" visible="true" weight="0.25302014" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49723756" visible="true" weight="0.25637585" />
+      <window_info id="Structure" order="1" sideWeight="0.50276244" side_tool="true" visible="true" weight="0.25637585" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -246,7 +224,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.23087819" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23087819" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -273,17 +251,25 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/model.java" />
-    <entry file="file://$PROJECT_DIR$/src/model/Viisari.java">
+    <entry file="file://$PROJECT_DIR$/src/view/MainView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        <state relative-caret-position="323">
+          <caret line="50" column="43" selection-start-line="50" selection-start-column="43" selection-end-line="50" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3334#3335#0" expanded="true" />
+            <element signature="e#3380#3381#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/Kello.java">
+    <entry file="file://$PROJECT_DIR$/src/main/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+        <state relative-caret-position="102">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -296,33 +282,22 @@
             <element signature="method#createButtonsHbox#0;class#ClockWidget#0" />
             <element signature="method#draw#0;class#ClockWidget#0" />
             <element signature="method#getHourHandXPos#0;class#ClockWidget#0" />
-            <element signature="method#getHourHandXPos#1;class#ClockWidget#0" />
             <element signature="method#getMinutesHandXPos#0;class#ClockWidget#0" />
-            <element signature="method#getMinutesHandXPos#1;class#ClockWidget#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/model/Kello.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="578">
+          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/MainView.java">
+    <entry file="file://$PROJECT_DIR$/src/model/Viisari.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="556">
-          <caret line="125" lean-forward="true" selection-start-line="125" selection-end-line="125" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#293#294#0" expanded="true" />
-            <element signature="e#3380#3381#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="102">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
         </state>
       </provider>
     </entry>
