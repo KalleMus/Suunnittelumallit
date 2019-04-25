@@ -33,7 +33,7 @@ public class Pokemon {
 		increaseLevel();
 	}
 
-	public void increaseLevel() {
+	private void increaseLevel() {
 		currentForm.increaseLevel(evolveCheckerVisitor);
 	}
 

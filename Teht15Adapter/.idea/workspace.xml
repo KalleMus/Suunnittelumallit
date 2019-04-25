@@ -2,19 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d587018-7104-40c8-85c8-7dbb02a054ed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Airplane_IF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CarToPlaneAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Car_IF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FighterPlane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SportsCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Teht16Bridge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Teht16Bridge/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Teht17Lightweight/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Teht17Lightweight/src/BorderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Teht17Lightweight/src/StringTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teht10ChainOfResponsibility/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Teht10ChainOfResponsibility/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teht11Memento/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Teht11Memento/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teht12Proxy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Teht12Proxy/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teht12Proxy/src/model/RealImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Teht12Proxy/src/model/RealImage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Teht13Visitor/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Teht13Visitor/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teht13Visitor/out/production/Teht13Visitor/pokemon/Pokemon.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Teht13Visitor/out/production/Teht13Visitor/pokemon/Pokemon.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Teht13Visitor/src/pokemon/Pokemon.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Teht13Visitor/src/pokemon/Pokemon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Teht13Visitor/src/view/MainView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Teht13Visitor/src/view/MainView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Teht13Visitor/src/visitor/EvolveCheckerVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Teht13Visitor/src/visitor/EvolveCheckerVisitor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Teht14Builder/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Teht14Builder/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teht14Builder/src/builder/McDonalds.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Teht14Builder/src/builder/McDonalds.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,9 +28,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/CarToPlaneAdapter.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FighterPlane.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
+            <state relative-caret-position="306">
               <caret line="18" column="49" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
               <folding>
                 <element signature="e#90#91#0" expanded="true" />
@@ -40,34 +52,6 @@
                 <element signature="e#361#362#0" expanded="true" />
                 <element signature="e#411#412#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CarToPlaneAdapter.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Airplane_IF.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Car_IF.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -85,6 +69,24 @@
                 <element signature="e#245#246#0" expanded="true" />
                 <element signature="e#295#296#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Car_IF.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Airplane_IF.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -129,7 +131,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -138,16 +139,23 @@
               <item name="Teht15Adapter" type="b2602c69:ProjectViewProjectNode" />
               <item name="Teht15Adapter" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Teht15Adapter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Teht15Adapter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555081564735" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556106925641" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -188,18 +196,18 @@
       <option name="presentableId" value="Default" />
       <updated>1555077696591</updated>
       <workItem from="1555077699221" duration="1857000" />
-      <workItem from="1555494433635" duration="231000" />
+      <workItem from="1555494433635" duration="2963000" />
+      <workItem from="1556106220362" duration="822000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2088000" />
+    <option name="totallyTimeSpent" value="5642000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24899329" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -237,7 +245,7 @@
     <entry file="file://$PROJECT_DIR$/src/Car.java" />
     <entry file="file://$PROJECT_DIR$/src/FighterPlane.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
+        <state relative-caret-position="306">
           <caret line="18" column="49" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
           <folding>
             <element signature="e#90#91#0" expanded="true" />
@@ -249,23 +257,6 @@
             <element signature="e#361#362#0" expanded="true" />
             <element signature="e#411#412#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CarToPlaneAdapter.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Airplane_IF.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Car_IF.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -284,7 +275,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Car_IF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Airplane_IF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CarToPlaneAdapter.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>

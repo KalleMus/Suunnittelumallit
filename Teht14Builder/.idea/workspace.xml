@@ -2,7 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="034d8a69-936e-443f-af82-0bddf8dc8ff8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Teht16Bridge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Teht16Bridge/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Teht17Lightweight/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Teht17Lightweight/src/BorderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Teht17Lightweight/src/StringTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teht10ChainOfResponsibility/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Teht10ChainOfResponsibility/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teht11Memento/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Teht11Memento/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teht12Proxy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Teht12Proxy/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teht12Proxy/src/model/RealImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Teht12Proxy/src/model/RealImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teht13Visitor/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Teht13Visitor/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teht13Visitor/out/production/Teht13Visitor/pokemon/Pokemon.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Teht13Visitor/out/production/Teht13Visitor/pokemon/Pokemon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teht13Visitor/src/pokemon/Pokemon.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Teht13Visitor/src/pokemon/Pokemon.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/builder/McDonalds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/builder/McDonalds.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teht15Adapter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Teht15Adapter/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,16 +26,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="556">
-              <caret line="48" selection-start-line="48" selection-end-line="48" />
+            <state relative-caret-position="284">
+              <caret line="28" column="53" lean-forward="true" selection-start-line="28" selection-start-column="53" selection-end-line="28" selection-end-column="53" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#261#262#0" expanded="true" />
-                <element signature="e#273#274#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -30,8 +42,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/builder/BurgerBuilder_IF.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="34">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -39,20 +51,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/builder/Hesburger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding>
-                <element signature="e#138#139#0" expanded="true" />
+                <element signature="e#137#138#0" expanded="true" />
                 <element signature="e#185#186#0" expanded="true" />
                 <element signature="e#225#226#0" expanded="true" />
-                <element signature="e#272#273#0" expanded="true" />
-                <element signature="e#349#350#0" expanded="true" />
-                <element signature="e#400#401#0" expanded="true" />
-                <element signature="e#478#479#0" expanded="true" />
-                <element signature="e#528#529#0" expanded="true" />
-                <element signature="e#603#604#0" expanded="true" />
-                <element signature="e#652#653#0" expanded="true" />
-                <element signature="e#334#335#0" expanded="true" />
-                <element signature="e#367#368#0" expanded="true" />
+                <element signature="e#274#275#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -61,22 +66,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/builder/McDonalds.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="40" selection-start-line="40" selection-end-line="40" />
+            <state relative-caret-position="153">
+              <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#200#201#0" expanded="true" />
-                <element signature="e#233#234#0" expanded="true" />
-                <element signature="e#249#250#0" expanded="true" />
-                <element signature="e#261#262#0" expanded="true" />
-                <element signature="e#347#348#0" expanded="true" />
-                <element signature="e#365#366#0" expanded="true" />
-                <element signature="e#448#449#0" expanded="true" />
-                <element signature="e#460#461#0" expanded="true" />
-                <element signature="e#548#549#0" expanded="true" />
-                <element signature="e#560#561#0" expanded="true" />
-                <element signature="e#565#566#0" expanded="true" />
-                <element signature="e#598#599#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -91,76 +84,7 @@
                 <element signature="e#170#171#0" expanded="true" />
                 <element signature="e#211#212#0" expanded="true" />
                 <element signature="e#241#242#0" expanded="true" />
-                <element signature="e#279#280#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/burger_parts/BurgerParts_IF.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/burger_parts/MeatPatty.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-              <folding>
-                <element signature="e#140#141#0" expanded="true" />
-                <element signature="e#177#178#0" expanded="true" />
-                <element signature="e#206#207#0" expanded="true" />
-                <element signature="e#231#232#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/burger_parts/Bread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" selection-start-line="3" selection-end-line="12" selection-end-column="5" />
-              <folding>
-                <element signature="e#137#138#0" expanded="true" />
-                <element signature="e#159#160#0" expanded="true" />
-                <element signature="e#96#97#0" expanded="true" />
-                <element signature="e#121#122#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/burger_parts/Ketchup.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-              <folding>
-                <element signature="e#138#139#0" expanded="true" />
-                <element signature="e#175#176#0" expanded="true" />
-                <element signature="e#204#205#0" expanded="true" />
-                <element signature="e#229#230#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/burger_parts/Cheese.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-              <folding>
-                <element signature="e#137#138#0" expanded="true" />
-                <element signature="e#174#175#0" expanded="true" />
-                <element signature="e#203#204#0" expanded="true" />
-                <element signature="e#228#229#0" expanded="true" />
+                <element signature="e#280#281#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -190,9 +114,9 @@
         <option value="$PROJECT_DIR$/src/burger_parts/Cheese.java" />
         <option value="$PROJECT_DIR$/src/burger_parts/Ketchup.java" />
         <option value="$PROJECT_DIR$/src/burger_parts/MeatPatty.java" />
-        <option value="$PROJECT_DIR$/src/builder/McDonalds.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/builder/Hesburger.java" />
+        <option value="$PROJECT_DIR$/src/builder/McDonalds.java" />
       </list>
     </option>
   </component>
@@ -208,6 +132,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -226,24 +152,17 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="builder" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Teht14Builder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Teht14Builder" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="burger_parts" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555077698951" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Teht15Adapter" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -284,29 +203,24 @@
       <option name="presentableId" value="Default" />
       <updated>1555073484145</updated>
       <workItem from="1555073487177" duration="4207000" />
+      <workItem from="1555495580647" duration="599000" />
+      <workItem from="1556105266710" duration="952000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4207000" />
+    <option name="totallyTimeSpent" value="5758000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24899329" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.3286119" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
@@ -314,58 +228,59 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Burger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="15" selection-start-column="15" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/builder/BurgerBuilder_IF.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Burger.java" />
     <entry file="file://$PROJECT_DIR$/src/burger_parts/BurgerParts_IF.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
+        <state relative-caret-position="66">
           <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/burger_parts/MeatPatty.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/burger_parts/Bread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
+        <state relative-caret-position="99">
           <caret line="3" selection-start-line="3" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="e#137#138#0" expanded="true" />
-            <element signature="e#159#160#0" expanded="true" />
-            <element signature="e#96#97#0" expanded="true" />
-            <element signature="e#121#122#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/burger_parts/Ketchup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/burger_parts/Cheese.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
+        <state relative-caret-position="221">
           <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
           <folding>
             <element signature="e#137#138#0" expanded="true" />
@@ -376,70 +291,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/burger_parts/Ketchup.java">
+    <entry file="file://$PROJECT_DIR$/src/builder/BurgerBuilder_IF.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-          <folding>
-            <element signature="e#138#139#0" expanded="true" />
-            <element signature="e#175#176#0" expanded="true" />
-            <element signature="e#204#205#0" expanded="true" />
-            <element signature="e#229#230#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/burger_parts/MeatPatty.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-          <folding>
-            <element signature="e#140#141#0" expanded="true" />
-            <element signature="e#177#178#0" expanded="true" />
-            <element signature="e#206#207#0" expanded="true" />
-            <element signature="e#231#232#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/builder/McDonalds.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        <state relative-caret-position="153">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#200#201#0" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
-            <element signature="e#249#250#0" expanded="true" />
-            <element signature="e#261#262#0" expanded="true" />
-            <element signature="e#347#348#0" expanded="true" />
-            <element signature="e#365#366#0" expanded="true" />
-            <element signature="e#448#449#0" expanded="true" />
-            <element signature="e#460#461#0" expanded="true" />
-            <element signature="e#548#549#0" expanded="true" />
-            <element signature="e#560#561#0" expanded="true" />
-            <element signature="e#565#566#0" expanded="true" />
-            <element signature="e#598#599#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/builder/Hesburger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding>
-            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#137#138#0" expanded="true" />
             <element signature="e#185#186#0" expanded="true" />
             <element signature="e#225#226#0" expanded="true" />
-            <element signature="e#272#273#0" expanded="true" />
-            <element signature="e#349#350#0" expanded="true" />
-            <element signature="e#400#401#0" expanded="true" />
-            <element signature="e#478#479#0" expanded="true" />
-            <element signature="e#528#529#0" expanded="true" />
-            <element signature="e#603#604#0" expanded="true" />
-            <element signature="e#652#653#0" expanded="true" />
-            <element signature="e#334#335#0" expanded="true" />
-            <element signature="e#367#368#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -452,19 +329,17 @@
             <element signature="e#170#171#0" expanded="true" />
             <element signature="e#211#212#0" expanded="true" />
             <element signature="e#241#242#0" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="556">
-          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        <state relative-caret-position="284">
+          <caret line="28" column="53" lean-forward="true" selection-start-line="28" selection-start-column="53" selection-end-line="28" selection-end-column="53" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#261#262#0" expanded="true" />
-            <element signature="e#273#274#0" expanded="true" />
           </folding>
         </state>
       </provider>

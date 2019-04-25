@@ -35,7 +35,6 @@ public class RealImage implements  Image_IF {
 		mainView.getImageView().setImage(img);
 	}
 
-
 	@Override
 	public void showData() {
 		System.out.println(filename);

@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cae4d836-8863-4a4b-bcd1-7f67e0bb6e50" name="Default Changelist" comment="">
+    <list default="true" id="b1c3f13f-6912-40ff-83ed-84fdea63b0f2" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../Teht16Bridge/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Teht16Bridge/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Teht17Lightweight/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Teht17Lightweight/src/BorderTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Teht17Lightweight/src/StringTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Teht18Prototype/.idea/libraries/JavaFX11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Teht18Prototype/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Teht18Prototype/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Teht18Prototype/src/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Teht18Prototype/src/model/Kello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Teht18Prototype/src/model/Viisari.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Teht18Prototype/src/view/MainView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/JavaFX11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Kello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Viisari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/ClockWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/MainView.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Teht10ChainOfResponsibility/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Teht10ChainOfResponsibility/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Teht11Memento/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Teht11Memento/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/RealImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/RealImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teht12Proxy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Teht12Proxy/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teht12Proxy/src/model/RealImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Teht12Proxy/src/model/RealImage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Teht13Visitor/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Teht13Visitor/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Teht13Visitor/out/production/Teht13Visitor/pokemon/Pokemon.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Teht13Visitor/out/production/Teht13Visitor/pokemon/Pokemon.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Teht13Visitor/src/pokemon/Pokemon.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Teht13Visitor/src/pokemon/Pokemon.java" afterDir="false" />
@@ -34,44 +35,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ProxyExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="21" selection-end-column="63" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/model/ProxyImage.java">
+        <entry file="file://$PROJECT_DIR$/src/view/MainView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+            <state relative-caret-position="556">
+              <caret line="125" lean-forward="true" selection-start-line="125" selection-end-line="125" />
               <folding>
-                <element signature="e#665#666#0" expanded="true" />
-                <element signature="e#692#693#0" expanded="true" />
-                <element signature="e#736#737#0" expanded="true" />
-                <element signature="e#758#759#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#271#272#0" expanded="true" />
+                <element signature="e#293#294#0" expanded="true" />
+                <element signature="e#3380#3381#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/model/RealImage.java">
+        <entry file="file://$PROJECT_DIR$/src/main/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="697">
-              <caret line="46" selection-start-line="46" selection-end-line="46" />
+            <state relative-caret-position="136">
+              <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -80,25 +63,37 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/model/Image_IF.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/view/MainView.java">
+        <entry file="file://$PROJECT_DIR$/src/view/ClockWidget.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#3091#3092#0" expanded="true" />
-                <element signature="e#3128#3129#0" expanded="true" />
-                <element signature="e#3164#3165#0" expanded="true" />
-                <element signature="e#3187#3188#0" expanded="true" />
+                <element signature="method#createTypeLabel#0;class#ClockWidget#0" />
+                <element signature="method#createButtonsHbox#0;class#ClockWidget#0" />
+                <element signature="method#draw#0;class#ClockWidget#0" />
+                <element signature="method#getHourHandXPos#0;class#ClockWidget#0" />
+                <element signature="method#getHourHandXPos#1;class#ClockWidget#0" />
+                <element signature="method#getMinutesHandXPos#0;class#ClockWidget#0" />
+                <element signature="method#getMinutesHandXPos#1;class#ClockWidget#0" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/model/Kello.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/model/Viisari.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -108,11 +103,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
-        <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>bottom</find>
+      <find>hbutt</find>
+      <find>updateGui</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -120,17 +120,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Image.java" />
-        <option value="$PROJECT_DIR$/src/ProxyImage.java" />
-        <option value="$PROJECT_DIR$/src/RealImage.java" />
-        <option value="$PROJECT_DIR$/src/controller/MwController.java" />
-        <option value="$PROJECT_DIR$/src/model/Image.java" />
-        <option value="$PROJECT_DIR$/src/model/Image_IF.java" />
-        <option value="$PROJECT_DIR$/src/model/ProxyImage.java" />
-        <option value="$PROJECT_DIR$/src/style.css" />
-        <option value="$PROJECT_DIR$/src/ProxyExample.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/model/Viisari.java" />
+        <option value="$PROJECT_DIR$/src/main/Main.java" />
+        <option value="$PROJECT_DIR$/src/model/Kello.java" />
+        <option value="$PROJECT_DIR$/src/view/ClockWidget.java" />
         <option value="$PROJECT_DIR$/src/view/MainView.java" />
-        <option value="$PROJECT_DIR$/src/model/RealImage.java" />
       </list>
     </option>
   </component>
@@ -151,40 +146,29 @@
         <subPane>
           <expand>
             <path>
-              <item name="Teht12Proxy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Teht12Proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="Teht18Prototype" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Teht18Prototype" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Teht12Proxy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Teht12Proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="Teht18Prototype" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Teht18Prototype" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Teht12Proxy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Teht12Proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="Teht18Prototype" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Teht18Prototype" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Teht12Proxy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Teht12Proxy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Teht12Proxy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Teht12Proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="Teht18Prototype" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Teht18Prototype" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="view" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Teht12Proxy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Teht18Prototype" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="Teht12Proxy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="lib" type="70bed36:NamedLibraryElementNode" />
             </path>
           </expand>
           <select />
@@ -196,14 +180,14 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554915585787" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556139323638" />
+    <property name="last_opened_file_path" value="C:/Program Files/Java/javafx-sdk-11.0.2/lib" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -218,9 +202,9 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="ProxyExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProxyExample" />
-      <module name="Teht12Proxy" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="Teht18Prototype" />
       <option name="VM_PARAMETERS" value="--module-path &quot;C:\Program Files\Java\javafx-sdk-11.0.2\lib&quot; --add-modules=javafx.controls,javafx.fxml" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -228,7 +212,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ProxyExample" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -237,34 +221,32 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="cae4d836-8863-4a4b-bcd1-7f67e0bb6e50" name="Default Changelist" comment="" />
-      <created>1554905089294</created>
+      <changelist id="b1c3f13f-6912-40ff-83ed-84fdea63b0f2" name="Default Changelist" comment="" />
+      <created>1556108828331</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1554905089294</updated>
-      <workItem from="1554905092133" duration="6901000" />
-      <workItem from="1555056836376" duration="275000" />
-      <workItem from="1555501780745" duration="1548000" />
-      <workItem from="1556114704552" duration="633000" />
+      <updated>1556108828331</updated>
+      <workItem from="1556108832160" duration="1512000" />
+      <workItem from="1556113594483" duration="21122000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9357000" />
+    <option name="totallyTimeSpent" value="22634000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25167784" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49858356" visible="true" weight="0.25302014" />
+      <window_info id="Structure" order="1" sideWeight="0.50141644" side_tool="true" visible="true" weight="0.25302014" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.305949" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23087819" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -274,7 +256,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -285,96 +267,61 @@
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24869792" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3060686" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" />
-      <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/controller/MwController.java" />
-    <entry file="file://$PROJECT_DIR$/src/ProxyExample.java">
+    <entry file="file://$PROJECT_DIR$/src/model.java" />
+    <entry file="file://$PROJECT_DIR$/src/model/Viisari.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="21" selection-end-column="63" />
+        <state relative-caret-position="102">
+          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/style.css">
+    <entry file="file://$PROJECT_DIR$/src/model/Kello.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        <state relative-caret-position="442">
+          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/RealImage.java">
+    <entry file="file://$PROJECT_DIR$/src/view/ClockWidget.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        <state>
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="method#createTypeLabel#0;class#ClockWidget#0" />
+            <element signature="method#createButtonsHbox#0;class#ClockWidget#0" />
+            <element signature="method#draw#0;class#ClockWidget#0" />
+            <element signature="method#getHourHandXPos#0;class#ClockWidget#0" />
+            <element signature="method#getHourHandXPos#1;class#ClockWidget#0" />
+            <element signature="method#getMinutesHandXPos#0;class#ClockWidget#0" />
+            <element signature="method#getMinutesHandXPos#1;class#ClockWidget#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/Image_IF.java">
+    <entry file="file://$PROJECT_DIR$/src/main/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/view/MainView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="556">
+          <caret line="125" lean-forward="true" selection-start-line="125" selection-end-line="125" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#3091#3092#0" expanded="true" />
-            <element signature="e#3128#3129#0" expanded="true" />
-            <element signature="e#3164#3165#0" expanded="true" />
-            <element signature="e#3187#3188#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/ProxyImage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
-          <folding>
-            <element signature="e#665#666#0" expanded="true" />
-            <element signature="e#692#693#0" expanded="true" />
-            <element signature="e#736#737#0" expanded="true" />
-            <element signature="e#758#759#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#3380#3381#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -431,7 +378,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Teht12Proxy</last-edited>
+          <last-edited>Teht18Prototype</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -456,7 +403,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>lib</last-edited>
+          <last-edited>JavaFX11</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

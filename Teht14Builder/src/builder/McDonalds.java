@@ -7,7 +7,7 @@ import java.util.List;
 
 public class McDonalds implements BurgerBuilder_IF {
 
-	List<BurgerParts_IF> bigMac;
+	private List<BurgerParts_IF> bigMac;
 
 	public McDonalds() {
 		bigMac = new ArrayList<>();
