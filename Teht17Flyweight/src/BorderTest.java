@@ -33,3 +33,5 @@ public class BorderTest extends JFrame {
 			System.out.println("bevel borders are NOT shared");
 	}
 }
+
+

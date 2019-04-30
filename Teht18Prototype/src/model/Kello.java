@@ -3,7 +3,6 @@ package model;
 public class Kello implements Cloneable {
 
 	private Viisari tuntiViisari, minuttiViisari, sekuntiViisari;
-	private double radius = 100;
 
 	public Kello() {
 		tuntiViisari = new Viisari("Tuntiviisari", 10, 50);
@@ -32,30 +31,6 @@ public class Kello implements Cloneable {
 			e.printStackTrace();
 		}
 		return returnKello;
-	}
-
-	public Viisari getTuntiViisari() {
-		return tuntiViisari;
-	}
-
-	public void setTuntiViisari(Viisari tuntiViisari) {
-		this.tuntiViisari = tuntiViisari;
-	}
-
-	public Viisari getMinuttiViisari() {
-		return minuttiViisari;
-	}
-
-	public void setMinuttiViisari(Viisari minuttiViisari) {
-		this.minuttiViisari = minuttiViisari;
-	}
-
-	public Viisari getSekuntiViisari() {
-		return sekuntiViisari;
-	}
-
-	public void setSekuntiViisari(Viisari sekuntiViisari) {
-		this.sekuntiViisari = sekuntiViisari;
 	}
 
 	public void incrementHours() {
@@ -92,5 +67,29 @@ public class Kello implements Cloneable {
 
 	public String getTime() {
 		return tuntiViisari.getPointsTo() + ":" + minuttiViisari.getPointsTo() + ":" + sekuntiViisari.getPointsTo();
+	}
+
+	public Viisari getTuntiViisari() {
+		return tuntiViisari;
+	}
+
+	public void setTuntiViisari(Viisari tuntiViisari) {
+		this.tuntiViisari = tuntiViisari;
+	}
+
+	public Viisari getMinuttiViisari() {
+		return minuttiViisari;
+	}
+
+	public void setMinuttiViisari(Viisari minuttiViisari) {
+		this.minuttiViisari = minuttiViisari;
+	}
+
+	public Viisari getSekuntiViisari() {
+		return sekuntiViisari;
+	}
+
+	public void setSekuntiViisari(Viisari sekuntiViisari) {
+		this.sekuntiViisari = sekuntiViisari;
 	}
 }
