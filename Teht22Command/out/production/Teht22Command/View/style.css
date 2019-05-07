@@ -1,0 +1,12 @@
+#button {
+    -fx-background-color: #222;
+    -fx-text-fill: white;
+}
+
+#button:hover {
+    -fx-background-color: #444;
+}
+
+#text {
+    -fx-font-size: 40;
+}
